@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class PrimeNumberCalculator {
 	public static boolean isPrimeNumber(int testNumber) {
 		//素数かどうかを判定する
